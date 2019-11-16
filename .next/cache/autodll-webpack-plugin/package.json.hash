@@ -1,0 +1,1 @@
+{"name":"React-Next.js-Koa","version":"0.1.0","private":true,"scripts":{"dev":"node server.js","build":"next build","start":"next start"},"dependencies":{"koa":"^2.11.0","next":"9.1.3","react":"16.12.0","react-dom":"16.12.0"},"readme":"ERROR: No README data found!","_id":"React-Next.js-Koa@0.1.0"}
