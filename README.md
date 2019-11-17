@@ -8,5 +8,7 @@
 
 > yarn dev 或者 npm run dev 
 
+node连接redis
+端口为127.0.0.1：6378
 
 学习演示项目------不断更新中
